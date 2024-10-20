@@ -22,15 +22,37 @@ h1{
 h3{
 	text-align: center;
 }
+
 div{ 
 	margin-bottom:30px; 
 }
 
-.nexttoyou{
-	width: 150%;
-	height: 100%;
+.photo1{
+	padding-right: 5px;
+	height: 405px;
+	border-radius: 5px;
 }
 
-.nextleft{
-	margin-right: 1px;
+.photo2{
+	height: 405px;
+	border-radius: 5px;
 }
+
+body{
+	background-color: #cfe2f3;
+}
+.karta1{
+	height: 405px;
+}
+.karta2{
+	height: 300px;
+	width: 640px;
+}
+.wallpaper{
+	height: auto;
+	width: 640px;
+}
+
+video{
+	width: 1280px;
+	height: auto;
